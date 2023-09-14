@@ -5,5 +5,4 @@
 
 bool subject_in_frame
 int64 horizontal_center_offset # pixels
-int64 frame_width # pixels
 float64 distance # meters
